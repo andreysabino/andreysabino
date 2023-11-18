@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 - Pesquisador IC<br>- Curioso sobre códigos e usabilidade dentro e fora da programação.<br>
 
 
