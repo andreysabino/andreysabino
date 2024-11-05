@@ -1,7 +1,7 @@
-
-- Pesquisador IC<br>- Curioso sobre códigos e usabilidade dentro e fora da programação.<br>
-
-
+- Pesquisador IC
+- Curioso sobre códigos e usabilidade dentro e fora da programação.
+- Pesquisador no [Computacional Inteligency Laboratory ](https://github.com/cilab-ufersa)
+- Interesses na área da educação e metodologias de ensino de programação, com foco em metodologias ativas e gamificação.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://br.linkedin.com/in/andrey-sabino-b51945254) 
 
